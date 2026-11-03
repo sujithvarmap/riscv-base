@@ -227,3 +227,7 @@ complete `JAL`/`JALR` datapath, adding byte and halfword memory operations,
 parameterizing memory sizes, adding assertions, and creating automated
 regression tests for arithmetic, branches, loads, stores, hazards, and reset
 behavior.
+
+## Project Documentation
+
+[Click here to view the complete PDF documentation](https://github.com/sujithvarmap/riscv-base/blob/main/riscv%20%281%29.pdf)
