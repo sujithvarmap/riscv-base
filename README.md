@@ -16,6 +16,10 @@ The design and simulation are demonstrated in this YouTube video:
 
 [Watch the RISC-V processor demonstration](https://youtu.be/ga93fR30WEw)
 
+## Project Documentation
+
+[Click here to view the complete PDF documentation](https://github.com/sujithvarmap/riscv-base/blob/main/riscv%20%281%29.pdf)
+
 ## Processor overview
 
 The top-level module is `riscv_top`. It has a clock, an active-high reset, and
@@ -228,6 +232,4 @@ parameterizing memory sizes, adding assertions, and creating automated
 regression tests for arithmetic, branches, loads, stores, hazards, and reset
 behavior.
 
-## Project Documentation
 
-[Click here to view the complete PDF documentation](https://github.com/sujithvarmap/riscv-base/blob/main/riscv%20%281%29.pdf)
